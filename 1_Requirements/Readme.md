@@ -5,11 +5,20 @@
 ## Introduction
 This days the technology is developing at very high speed automation and innovation is their in every field and everyone is looking for automation and advancements in all the sectors. The Temperature measurement using atmega328 is capable of maintaining the proper temperature inside the bus what this system will do it will sense the temperature inside the Bus using temperature sensor (LM 35) and it will give the signal to fan which will get switched ONN and Off accourding to requirement  .
 In our project, the sensor will sense that the passenger  has been seated or not and if the passenger is  seated then he need to set the temperature accordingly. Based on that our controller will set the speed of a fan  to required speed . The temperature sesnor (LM35) will sense the heat and a LCD display will show requested the temperature. In our project we have used ATmega328 microcontroller along with temperature sensor, Push button, Heat generator, LED and LCD diplay,etc.
+
 ## Features
 - The System will sense is  passenger seated or not.
 -  Passenger has the access to modify the speed of a fan in the bus.
 - Low cost and robust system.
 - Modular Approach.
+
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Design`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_TestplanAnd Output`      | Documents with test plans and procedures
 
 ## SWOT- Strengths, and Weakness, Opportunities Threats
 ### Strengths
@@ -25,10 +34,17 @@ In our project, the sensor will sense that the passenger  has been seated or not
 ### Threats
 - Not suitable for average or high temperature places.
 
-## 4W's and 1'H
-### *WHAT* : 
-### *WHERE* : 
-### *WHEN* : 
+# 4W's and 1'H
+## Who:  
+This ATM can be used by any one ,It is easy to use.
+## What:
+An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
+## When:
+It is made as a part of LTTS Step-in Mini Project work.
+## Where:
+It's made using Visual Studio Code IDE on Windows 10.
+## How:
+A simple algorithm is used which has a simple ATM code and can take input from user and give the result.
 
 ## Detail requirements
 ### High Level Requirements
