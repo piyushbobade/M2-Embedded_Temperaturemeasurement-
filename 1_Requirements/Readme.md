@@ -36,15 +36,15 @@ In our project, the sensor will sense that the passenger  has been seated or not
 
 # 4W's and 1'H
 ## Who:  
-This ATM can be used by any one ,It is easy to use.
+This Device can be used by anyone, It is easy to use .
 ## What:
-An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
+The Temperature measurement using atmega328 is capable of maintaining the proper temperature inside the bus what this system will do it will sense the temperature inside the Bus using temperature sensor (LM 35) and it will give the signal to fan which will get switched ONN and Off accourding to requirement  .
 ## When:
 It is made as a part of LTTS Step-in Mini Project work.
 ## Where:
 It's made using Visual Studio Code IDE on Windows 10.
 ## How:
-A simple algorithm is used which has a simple ATM code and can take input from user and give the result.
+A simple algorithm is used which has a simple Temperature measurement code and can analyse the input and give the result.
 
 ## Detail requirements
 ### High Level Requirements
